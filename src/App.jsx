@@ -1,9 +1,11 @@
 import React from 'react'
+import './app.scss'
+import Home from './home/Home'
 
 const App = () => {
   return (
     <div>
-      yo bab! lets do this!
+      <Home />
     </div>
   )
 }
